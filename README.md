@@ -235,7 +235,7 @@ Contributions are welcome! Please ensure:
 
 ## License
 
-[Your License Here]
+Unlicense, do what you want with it. No warranty at all, or promises made, verify all information yourself.
 
 ## Acknowledgments
 
